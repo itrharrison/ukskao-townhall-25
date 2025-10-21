@@ -8,13 +8,16 @@
 The Town Hall will be located in the WX3.07 room of the School of Physics and Astronomy at Cardiff University
 
 You can find the School on google maps [here](https://maps.app.goo.gl/M9uK2BpVGZbLjqp19).
+
+The WX (West Extension) building itself is [here](https://maps.app.goo.gl/Hs3gNAJCHgnJKisx7). On the Monday there will be both signs and people guiding you as to how to get to the room.
+
 ## Programme
 Please note the details of this programme are subject to change!
 ### Monday 17th November
 | Start time | Title | Speaker | Duration |
 |---|---|---|---|
-| 10:30 | Arrival & registration |  | 30 min |
-| 11:00 | Welcome / logistics | Ian Harrison | 5 min |
+| 10:30 | Arrival & Registration |  | 30 min |
+| 11:00 | Welcome / Logistics | Ian Harrison | 5 min |
 | 11:05 | UK SKAO Science Committee - ECR intro | ECR sub-committee | 5 min |
 | 11:10 | SKAO Construction Overview | Stuart Whittley | 20 + 5 |
 | 11:35 | SKAO Science Overview | Nichol Cunningham | 20 + 5 |
@@ -22,7 +25,7 @@ Please note the details of this programme are subject to change!
 | 12:25 - 14:00 | **Lunch** |  | 1 hr 30 min |
 | 14:00 | Overview of Görlitz meeting | Philippa Hartley | 20 + 5 |
 | 14:25 | Engaging with Industry | Carol Watts | 20 + 5 |
-| 14:50 | Panel Q&A | all previous speakers | 40 min |
+| 14:50 | Panel Q&A | All previous speakers | 40 min |
 | 15:30 | Break |  | 30 min |
 | 16:00 | Precision cosmology with MeerKLASS 21cm intensity mapping | Steve Cunnington | 15 + 5 |
 | 16:20 | The Planet-Earth Building-Blocks Legacy e-MERLIN Survey: a pathfinder on where planets grow | Jane Greaves | 15 + 5 |
@@ -31,7 +34,7 @@ Please note the details of this programme are subject to change!
 
 
 ### Tuesday 18th November
-| Start time | Title | Speaker |  |
+| Start time | Title | Speaker | Duration |
 |---|---|---|---|
 | 09:20 | Unraveling the puzzle of "super-thin" spiral galaxies with MeerKAT | Timothy Davis | 15 + 5 |
 | 09:40 | From MIGHTEE–HI to SKA: Connecting Galaxy Evolution and HI Cosmology | Anastasia Ponomareva | 15 + 5 |
