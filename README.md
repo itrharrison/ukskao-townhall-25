@@ -1,4 +1,9 @@
 # UK SKAO Town Hall 2025
+
+- [Location](##Location)
+- [Programme](##Programme)
+- [Local Information](##Local\_Information)
+  
 ## Location
 The Town Hall will be located in the WX3.07 room of the School of Physics and Astronomy at Cardiff University
 
@@ -50,13 +55,14 @@ You can find the School on google maps [here](https://maps.app.goo.gl/M9uK2BpVGZ
 As well as the usual chains Cardiff city centre has a thriving independent food and drink scene and you can find a list of recommended places [here](https://www.google.com/maps/d/u/0/edit?mid=1Z-K3QlnnRexcsHMl1_EkTq2LOI4hY4A&usp=sharing)
 
 Of the things which are open on Mondays my top picks would be:
+
 **Lunch**:
 - Cardiff Market (many options)
 - Falafel Corner
 - Bike Lock Cafe
 - Oat & Bean Cafe (vegan)
 
-**Evening**
+**Evening**:
 - Bacareto
 - Bar 44
 - Curado
