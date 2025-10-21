@@ -9,6 +9,7 @@ The Town Hall will be located in the WX3.07 room of the School of Physics and As
 
 You can find the School on google maps [here](https://maps.app.goo.gl/M9uK2BpVGZbLjqp19).
 ## Programme
+Please note the details of this programme are subject to change!
 ### Monday 17th November
 | Start time | Title | Speaker | Duration |
 |---|---|---|---|
@@ -35,7 +36,7 @@ You can find the School on google maps [here](https://maps.app.goo.gl/M9uK2BpVGZ
 | 09:20 | Unraveling the puzzle of "super-thin" spiral galaxies with MeerKAT | Timothy Davis | 15 + 5 |
 | 09:40 | From MIGHTEE–HI to SKA: Connecting Galaxy Evolution and HI Cosmology | Anastasia Ponomareva | 15 + 5 |
 | 10:00 | Briefing on the SKA Data Challenge 3b: a Bayesian inference pipeline for EoR science | Yuchen Liu | 15 + 5 |
-| 10:20 | [CHANGED] LOFAR Imaging Observations of Sub-second Solar Radio Bursts | Daniel Clarkson | 15 + 5 |
+| 10:20 | LOFAR Imaging Observations of Sub-second Solar Radio Bursts | Daniel Clarkson | 15 + 5 |
 | 10:40 | Break |  | 30 min |
 | 11:10 | The MeerKAT International GHz Extragalatic Exploration (MIGHTEE) Continuum Survey | Catherine Hale | 15 + 5 |
 | 11:30 | Ultra-wideband study of giant pulse emitters | Patrick O'Neill | 15 + 5 |
