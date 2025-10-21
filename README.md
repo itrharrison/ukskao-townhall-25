@@ -45,3 +45,23 @@ You can find the School on google maps [here](https://maps.app.goo.gl/M9uK2BpVGZ
 | 15:40 | Wrap up |  | 35 min |
 | 16:15 | **End** |  |  |
 
+## Local Information
+### Food and Drink
+As well as the usual chains Cardiff city centre has a thriving independent food and drink scene and you can find a list of recommended places [here](https://www.google.com/maps/d/u/0/edit?mid=1Z-K3QlnnRexcsHMl1_EkTq2LOI4hY4A&usp=sharing)
+
+Of the things which are open on Mondays my top picks would be:
+**Lunch**:
+- Cardiff Market (many options)
+- Falafel Corner
+- Bike Lock Cafe
+- Oat & Bean Cafe (vegan)
+
+**Evening**
+- Bacareto
+- Bar 44
+- Curado
+- Nighthawks
+- Daffodil
+- Mad Dog (drinks only Monday)
+- Flute & Tankard (drinks only)
+- Scaredy Cats (drinks and snacks only)
