@@ -1,8 +1,8 @@
 # UK SKAO Town Hall 2025
 
-- [Location](##Location)
-- [Programme](##Programme)
-- [Local Information](##Local\_Information)
+- [Location](#location)
+- [Programme](#programme)
+- [Local Information](#local-information)
   
 ## Location
 The Town Hall will be located in the WX3.07 room of the School of Physics and Astronomy at Cardiff University
