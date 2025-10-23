@@ -1,5 +1,7 @@
 # UK SKAO Science Committee Town Hall 2025
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cardiff_University_%28logo%29.svg/1024px-Cardiff_University_%28logo%29.svg.png?20200529000757" alt="Cardiff University Logo" width="200"/><img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1083469753%2F625699459063%2F1%2Foriginal.20250729-112718?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=229832901fddcc0baa197f62c7187313" alt="SKAO in Action" width="385"/>
+
 - [Location](#location)
 - [Programme](#programme)
 - [Local Information](#local-information)
@@ -10,7 +12,11 @@ The Town Hall will be located in the WX3.07 room of the School of Physics and As
 
 You can find the School on google maps [here](https://maps.app.goo.gl/M9uK2BpVGZbLjqp19).
 
-The WX (West Extension) building itself is [here](https://maps.app.goo.gl/Hs3gNAJCHgnJKisx7). On the Monday there will be both signs and people guiding you as to how to get to the room.
+The WX (West Extension) building itself is [here](https://maps.app.goo.gl/Hs3gNAJCHgnJKisx7) and you can find further information about Accessibility within the building [here](https://www.accessable.co.uk/cardiff-university/cathays-park-campus/access-guides/west-building-extension).
+
+The building is just outside the city centre (less than five minutes from the edge), so is readily accessible by public transport and walking. If you require parking a limited amount is available, with details at the bottom of [this page](https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/queens-buildings)
+
+On the Monday morning there will be both signs and people guiding you as to how to get to the room.
 
 ## Programme
 Please note the details of this programme are subject to change!
