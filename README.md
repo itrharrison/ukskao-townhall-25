@@ -57,22 +57,23 @@ Please note the details of this programme are subject to change!
 
 ## Local Information
 ### Food and Drink
-As well as the usual chains Cardiff city centre has a thriving independent food and drink scene and you can find a list of recommended places [here](https://www.google.com/maps/d/u/0/edit?mid=1Z-K3QlnnRexcsHMl1_EkTq2LOI4hY4A&usp=sharing)
+As well as the usual chains Cardiff city centre has a thriving independent food and drink scene and you can find a list of recommended places [here](https://www.google.com/maps/d/u/0/edit?mid=1Z-K3QlnnRexcsHMl1_EkTq2LOI4hY4A&usp=sharing).
 
 Of the things which are open on Mondays my top picks would be:
 
 **Lunch**:
-- Cardiff Market (many options)
-- Falafel Corner
-- Bike Lock Cafe
-- Oat & Bean Cafe (vegan)
+- [Cardiff Market](https://maps.app.goo.gl/Y2bQ1T9kkpkQkEip6) (many `street food' options)
+- [Falafel Corner](https://maps.app.goo.gl/ErttzxJypr4EMJkE8)
+- [Pettigrew Bakery](https://maps.app.goo.gl/citwpHJEaQgDcq9X8)
+- [Bike Lock Cafe](https://maps.app.goo.gl/GCrykVkoPvtng6Q49)
+- [Oat & Bean Cafe](https://maps.app.goo.gl/z6ZJZawiup5YYBaY9) (vegan)
 
 **Evening**:
-- Bacareto
-- Bar 44
-- Curado
-- Nighthawks
-- Daffodil
-- Mad Dog (drinks only Monday)
-- Flute & Tankard (drinks only)
-- Scaredy Cats (drinks and snacks only)
+- [Bacareto](https://maps.app.goo.gl/xxt51CdUv1WWiV9FA)
+- [Bar 44](https://maps.app.goo.gl/9uFofddAoBQTB9WN7)
+- [Curado](https://maps.app.goo.gl/f5ruZ2sRZna5jFJN6)
+- [Nighthawks](https://maps.app.goo.gl/DA27jaqMHt7Wjhcs9) (drinks and cheese toasties)
+- [Daffodil](https://maps.app.goo.gl/YKYPURGhjJT2ohvb8)
+- [Mad Dog](https://maps.app.goo.gl/6qQhbKhyUJEvyqXg6) (drinks only Monday)
+- [Flute & Tankard](https://maps.app.goo.gl/KRXjHP7Hk4kAn1qL7) (drinks only)
+- [Scaredy Cats](https://maps.app.goo.gl/6Nn33XbkrztdLNAF6) (drinks and snacks only -- great selection of board games)
