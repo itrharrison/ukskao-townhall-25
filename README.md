@@ -14,7 +14,7 @@ You can find the School on google maps [here](https://maps.app.goo.gl/M9uK2BpVGZ
 
 The WX (West Extension) building itself is [here](https://maps.app.goo.gl/Hs3gNAJCHgnJKisx7) and you can find further information about Accessibility within the building [here](https://www.accessable.co.uk/cardiff-university/cathays-park-campus/access-guides/west-building-extension).
 
-The building is just outside the city centre (less than five minutes from the edge), so is readily accessible by public transport and walking. If you require parking a limited amount is available, with details at the bottom of [this page](https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/queens-buildings)
+The building is just outside the city centre (less than five minutes from the edge), so is readily accessible by public transport and walking. If you require parking a limited amount is available, with details at the bottom of [this page](https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/queens-buildings).
 
 On the Monday morning there will be both signs and people guiding you as to how to get to the room.
 
@@ -63,7 +63,7 @@ Please note the details of this programme are subject to change!
 
 ## Local Information
 ### Food and Drink
-As well as the usual chains Cardiff city centre has a thriving independent food and drink scene and you can find a list of recommended places [here](https://www.google.com/maps/d/u/0/edit?mid=1Z-K3QlnnRexcsHMl1_EkTq2LOI4hY4A&usp=sharing).
+As well as the usual chains Cardiff city centre has a thriving independent food and drink scene and you can find a list of recommended places [here](https://www.google.com/maps/d/u/0/edit?mid=1Z-K3QlnnRexcsHMl1_EkTq2LOI4hY4A&usp=sharing). If you aren't sure what you want then [Church Street](https://maps.app.goo.gl/vTQiCPYMxWSbMEsU7) and the surrounding arcades has a high density of good options.
 
 Of the things which are open on Mondays my top picks would be:
 
