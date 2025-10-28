@@ -6,6 +6,8 @@
 - [Programme](#programme)
 - [Local Information](#local-information)
 ---
+## Registration
+To register for either in-person or online attendance, please follow the link [here](https://www.eventbrite.co.uk/e/annual-uk-skao-science-committee-town-hall-17th-18th-november-2025-tickets-1541380072289?aff=oddtdtcreator).
 
 ## Location
 The Town Hall will be located in the WX3.07 room of the School of Physics and Astronomy at Cardiff University
