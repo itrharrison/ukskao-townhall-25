@@ -64,6 +64,12 @@ Please note the details of this programme are subject to change!
 | 16:15 | **End** |  |  |
 
 ## Local Information
+### Accommodation
+The venue is located just to the East of Cardiff city centre, less than five minutes walk from the main shopping street. As such there are many hotels throughout the city at all budget levels within walking distance.
+
+### Arrival
+If you are arriving on the day, Cardiff Central train station is around a twenty minute walk from the venue. You can also take the bus numbers 57/52/58 or take the short train transfer to Cardiff Queen Street station, which is less than five minutes walk away.
+
 ### Food and Drink
 As well as the usual chains Cardiff city centre has a thriving independent food and drink scene and you can find a list of recommended places [here](https://www.google.com/maps/d/u/0/edit?mid=1Z-K3QlnnRexcsHMl1_EkTq2LOI4hY4A&usp=sharing). If you aren't sure what you want then [Church Street](https://maps.app.goo.gl/vTQiCPYMxWSbMEsU7) and the surrounding arcades has a high density of good options.
 
