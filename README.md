@@ -5,6 +5,7 @@
 - [Location](#location)
 - [Programme](#programme)
 - [Local Information](#local-information)
+- [Code of Conduct](#code-of-conduct)
 ---
 ## Registration
 To register for either in-person or online attendance, please follow the link [here](https://www.eventbrite.co.uk/e/annual-uk-skao-science-committee-town-hall-17th-18th-november-2025-tickets-1541380072289?aff=oddtdtcreator).
@@ -102,3 +103,18 @@ Of the things which are open on Mondays my top picks would be:
 - [Mad Dog](https://maps.app.goo.gl/6qQhbKhyUJEvyqXg6) (drinks only Monday)
 - [Flute & Tankard](https://maps.app.goo.gl/KRXjHP7Hk4kAn1qL7) (drinks only)
 - [Scaredy Cats](https://maps.app.goo.gl/6Nn33XbkrztdLNAF6) (drinks and snacks only -- great selection of board games)
+
+## Code of Conduct
+The UKSKAOSC Town Hall is intended for networking and collaboration as well as learning. We value the participation of everyone and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the event.
+
+We would like to make it very clear: the event will be a harassment-free environment for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, nationality, religion. We do not tolerate harassment of attendees in any form.
+
+- Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+- All communication given by speakers, meeting organisers and attendees should be appropriate for a professional audience including people of many different backgrounds. Sexual language, jokes and imagery is not appropriate for any event.
+- Be kind to others. Do not insult or put down other attendees.
+- Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
+
+Participants asked to stop any harassing behaviour are expected to comply immediately. Attendees violating these rules may be asked to leave the event at the sole discretion of the meeting organisers.
+We hope you have a wonderful time at the Town Hall.
+
+This code of conduct is adapted from http://software-carpentry.org/conduct.html
