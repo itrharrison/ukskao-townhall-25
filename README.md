@@ -18,19 +18,15 @@ The WX (West Extension) building itself is [here](https://maps.app.goo.gl/Hs3gNA
 
 The building is just outside the city centre (less than five minutes from the edge), so is readily accessible by public transport and walking. If you require parking a limited amount is available, with details at the bottom of [this page](https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/queens-buildings).
 
-On the Monday morning there will be both signs and people guiding you as to how to get to the room. Some helpful images are in the hidden section below.
+On the Monday morning there will be both signs and people guiding you as to how to get to the room.
 
-<details>
-	<summary>Helpful images for arrival</summary>
-	Marked in white is entrance to the department, in pink is entrance to the WX building.
+Marked in white is entrance to the department, in pink is entrance to the WX building:
 
-	<img src="images/entrance_to_department.png" alt="Entrances to buildings" width="400"/>
+<img src="images/entrance_to_department.png" alt="Entrances to buildings" width="400"/>
 
-	Route from the nearest bus stop to the WX building.
-	
-	<img src="images/route_to_wx.png" alt="Entrances to buildings" width="400"/>
+Route from the nearest bus stop to the WX building:
 
-</details>
+<img src="images/route_to_wx.png" alt="Entrances to buildings" width="400"/>
 
 ## Programme
 Please note the details of this programme are subject to change!
@@ -90,6 +86,8 @@ Of the things which are open on Mondays my top picks would be:
 **Lunch**:
 - [Cardiff Market](https://maps.app.goo.gl/Y2bQ1T9kkpkQkEip6) (many `street food' options)
 - [Falafel Corner](https://maps.app.goo.gl/ErttzxJypr4EMJkE8)
+- [McSims](https://maps.app.goo.gl/EhVhQG4MSPydDqrd8) (Maltese savoury pastries)
+- [Donald's Coffee \& Pies](https://maps.app.goo.gl/Ss39zEyWorBc42jf7)
 - [Pettigrew Bakery](https://maps.app.goo.gl/citwpHJEaQgDcq9X8)
 - [Bike Lock Cafe](https://maps.app.goo.gl/GCrykVkoPvtng6Q49)
 - [Oat & Bean Cafe](https://maps.app.goo.gl/z6ZJZawiup5YYBaY9) (vegan)
@@ -100,6 +98,7 @@ Of the things which are open on Mondays my top picks would be:
 - [Curado](https://maps.app.goo.gl/f5ruZ2sRZna5jFJN6)
 - [Nighthawks](https://maps.app.goo.gl/DA27jaqMHt7Wjhcs9) (drinks and cheese toasties)
 - [Daffodil](https://maps.app.goo.gl/YKYPURGhjJT2ohvb8)
+- [QBAO noodles bar](https://maps.app.goo.gl/risvbqDpBS4gsY7p9)
 - [Mad Dog](https://maps.app.goo.gl/6qQhbKhyUJEvyqXg6) (drinks only Monday)
 - [Flute & Tankard](https://maps.app.goo.gl/KRXjHP7Hk4kAn1qL7) (drinks only)
 - [Scaredy Cats](https://maps.app.goo.gl/6Nn33XbkrztdLNAF6) (drinks and snacks only -- great selection of board games)
