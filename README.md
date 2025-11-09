@@ -18,7 +18,19 @@ The WX (West Extension) building itself is [here](https://maps.app.goo.gl/Hs3gNA
 
 The building is just outside the city centre (less than five minutes from the edge), so is readily accessible by public transport and walking. If you require parking a limited amount is available, with details at the bottom of [this page](https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/queens-buildings).
 
-On the Monday morning there will be both signs and people guiding you as to how to get to the room.
+On the Monday morning there will be both signs and people guiding you as to how to get to the room. Some helpful images are in the hidden section below.
+
+<details>
+	<summary>Helpful images for arrival</summary>
+	Marked in white is entrance to the department, in pink is entrance to the WX building.
+
+	<img src="images/entrance_to_department.png" alt="Entrances to buildings" width="400"/>
+
+	Route from the nearest bus stop to the WX building.
+	
+	<img src="images/route_to_wx.png" alt="Entrances to buildings" width="400"/>
+
+</details>
 
 ## Programme
 Please note the details of this programme are subject to change!
