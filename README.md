@@ -4,7 +4,7 @@
 
 - [Location](#location)
 - [Programme](#programme)
-- [Local Information](#%EF%B8%8F--local-information--%EF%B8%8F)
+- [Local Information](#local-information)
 - [Code of Conduct](#code-of-conduct)
 ---
 ## Registration
@@ -73,7 +73,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | 15:40 | Wrap up |  | 35 min |
 | 16:15 | **End** |  |  |
 
-## ☂️ 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Local Information 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ☂️
+## Local Information
 ### Accommodation
 The venue is located just to the East of Cardiff city centre, less than five minutes walk from the main shopping street. As such there are many hotels throughout the city at all budget levels within walking distance.
 
