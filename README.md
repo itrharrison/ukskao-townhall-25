@@ -11,7 +11,7 @@
 To register for either in-person or online attendance, please follow the link [here](https://www.eventbrite.co.uk/e/annual-uk-skao-science-committee-town-hall-17th-18th-november-2025-tickets-1541380072289?aff=oddtdtcreator).
 
 ## Location
-The Town Hall will be located in the WX3.07 room of the School of Physics and Astronomy at Cardiff University
+The Town Hall will be located in the WX3.07 room of the School of Physics and Astronomy at Cardiff University.
 
 You can find the School on google maps [here](https://maps.app.goo.gl/M9uK2BpVGZbLjqp19).
 
@@ -30,7 +30,7 @@ Route from the nearest bus stop to the WX building:
 <img src="images/route_to_wx.png" alt="Entrances to buildings" width="400"/>
 
 ## Programme
-Please note the details of this programme are subject to change!
+Please note the details of this programme are subject to change! Speakers with a * will be online.
 ### Monday 17th November
 | Start time | Title | Speaker | Duration |
 |---|---|---|---|
@@ -56,7 +56,7 @@ Please note the details of this programme are subject to change!
 |---|---|---|---|
 | 08:45 | **Arrival** (with coffee \& pastries) |  | 35 min |
 | 09:20 | Unraveling the puzzle of "super-thin" spiral galaxies with MeerKAT | Timothy Davis | 15 + 5 |
-| 09:40 | From MIGHTEE–HI to SKA: Connecting Galaxy Evolution and HI Cosmology | Anastasia Ponomareva | 15 + 5 |
+| 09:40 | From MIGHTEE–HI to SKA: Connecting Galaxy Evolution and HI Cosmology | Anastasia Ponomareva* | 15 + 5 |
 | 10:00 | Briefing on the SKA Data Challenge 3b: a Bayesian inference pipeline for EoR science | Yuchen Liu | 15 + 5 |
 | 10:20 | LOFAR Imaging Observations of Sub-second Solar Radio Bursts | Daniel Clarkson | 15 + 5 |
 | 10:40 | **Break** (with coffee \& Welsh cakes) |  | 30 min |
