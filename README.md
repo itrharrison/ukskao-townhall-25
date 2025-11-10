@@ -34,17 +34,17 @@ Please note the details of this programme are subject to change!
 ### Monday 17th November
 | Start time | Title | Speaker | Duration |
 |---|---|---|---|
-| 10:30 | Arrival & Registration |  | 30 min |
+| 10:30 | **Arrival & Registration** (with coffee \& pastries) |  | 30 min |
 | 11:00 | Welcome / Logistics | Ian Harrison | 5 min |
 | 11:05 | UK SKAO Science Committee - ECR intro | ECR sub-committee | 5 min |
 | 11:10 | SKAO Construction Overview | Stuart Whittley | 20 + 5 |
 | 11:35 | SKAO Science Overview | Nichol Cunningham | 20 + 5 |
 | 12:00 | UK SKA Regional Centre - update | Rob Beswick / Louise Chisholm | 20 + 5 |
-| 12:25 - 14:00 | **Lunch** |  | 1 hr 30 min |
+| 12:25 - 14:00 | **Lunch** (food self-organised, coffee provided) |  | 1 hr 30 min |
 | 14:00 | Overview of Görlitz meeting | Philippa Hartley | 20 + 5 |
 | 14:25 | Engaging with Industry | Carol Watts | 20 + 5 |
 | 14:50 | Panel Q&A | All previous speakers | 40 min |
-| 15:30 | Break |  | 30 min |
+| 15:30 | **Break** (with coffee \& Welsh cakes) |  | 30 min |
 | 16:00 | Precision cosmology with MeerKLASS 21cm intensity mapping | Steve Cunnington | 15 + 5 |
 | 16:20 | The Planet-Earth Building-Blocks Legacy e-MERLIN Survey: a pathfinder on where planets grow | Jane Greaves | 15 + 5 |
 | 16:40 | Low-frequency-selected Fast Radio Burst Host Galaxies Candidates | Yuzhu Sun | 15 + 5 |
@@ -54,16 +54,17 @@ Please note the details of this programme are subject to change!
 ### Tuesday 18th November
 | Start time | Title | Speaker | Duration |
 |---|---|---|---|
+| 08:45 | **Arrival** (with coffee \& pastries) |  | 35 min |
 | 09:20 | Unraveling the puzzle of "super-thin" spiral galaxies with MeerKAT | Timothy Davis | 15 + 5 |
 | 09:40 | From MIGHTEE–HI to SKA: Connecting Galaxy Evolution and HI Cosmology | Anastasia Ponomareva | 15 + 5 |
 | 10:00 | Briefing on the SKA Data Challenge 3b: a Bayesian inference pipeline for EoR science | Yuchen Liu | 15 + 5 |
 | 10:20 | LOFAR Imaging Observations of Sub-second Solar Radio Bursts | Daniel Clarkson | 15 + 5 |
-| 10:40 | Break |  | 30 min |
+| 10:40 | **Break** (with coffee \& Welsh cakes) |  | 30 min |
 | 11:10 | The MeerKAT International GHz Extragalatic Exploration (MIGHTEE) Continuum Survey | Catherine Hale | 15 + 5 |
 | 11:30 | Ultra-wideband study of giant pulse emitters | Patrick O'Neill | 15 + 5 |
 | 11:50 | Investigating HI source finding strategies | Michalina Maksymowicz-Maciata | 15 + 5 |
 | 12:10 | First Steps Towards Systematic Zeeman Measurements of Interstellar Magnetic Fields with SKA Precursors | Kate Pattle | 15 + 5 |
-| 12:30 - 14:00 | **Lunch** |  | 1 hr 30 min |
+| 12:30 - 14:00 | **Lunch** (food self-organised, coffee provided) |  | 1 hr 30 min |
 | 14:00 | The SARAO MeerKAT Galactic Plane Survey | Mark Thompson | 15 + 5 |
 | 14:20 | Probing the EoR transition to late-time large-scale structure with neutral hydrogen | Jamie Incley | 15 + 5 |
 | 14:40 | Modelling the Impact of Primary Beam Asymmetries on SKAO HI Intensity Mapping | Tobias Russell | 15 + 5 |
