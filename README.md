@@ -21,7 +21,7 @@ The building is just outside the city centre (less than five minutes from the ed
 
 On the Monday morning there will be both signs and people guiding you as to how to get to the room.
 
-Marked in white is entrance to the department, in pink is entrance to the WX building:
+Marked in white is entrance to the department (for registration), in pink is entrance to the WX building (for the talks):
 
 <img src="images/entrance_to_department.png" alt="Entrances to buildings" width="400"/>
 
