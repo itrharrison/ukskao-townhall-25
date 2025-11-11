@@ -36,7 +36,7 @@ Please note the details of this programme are subject to change! Speakers with a
 |---|---|---|---|
 | 10:30 | **Arrival & Registration** (with coffee \& pastries) |  | 30 min |
 | 11:00 | Welcome / Logistics | Ian Harrison | 5 min |
-| 11:05 | UK SKAO Science Committee - ECR intro | ECR sub-committee | 5 min |
+| 11:05 | UK SKAO Science Committee - ECR intro | Catherine Hale / David Williams-Baldwin | 5 min |
 | 11:10 | SKAO Construction Overview | Stuart Whittley | 20 + 5 |
 | 11:35 | SKAO Science Overview | Nichol Cunningham | 20 + 5 |
 | 12:00 | UK SKA Regional Centre - update | Rob Beswick / Louise Chisholm | 20 + 5 |
@@ -57,7 +57,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | 08:45 | **Arrival** (with coffee \& pastries) |  | 35 min |
 | 09:20 | Unraveling the puzzle of "super-thin" spiral galaxies with MeerKAT | Timothy Davis | 15 + 5 |
 | 09:40 | From MIGHTEE–HI to SKA: Connecting Galaxy Evolution and HI Cosmology | Anastasia Ponomareva* | 15 + 5 |
-| 10:00 | Briefing on the SKA Data Challenge 3b: a Bayesian inference pipeline for EoR science | Yuchen Liu | 15 + 5 |
+| 10:00 | Briefing on the SKA Data Challenge 3b: A Data Simulation and Analysis Pipeline for EoR Science | Yuchen Liu | 15 + 5 |
 | 10:20 | LOFAR Imaging Observations of Sub-second Solar Radio Bursts | Daniel Clarkson | 15 + 5 |
 | 10:40 | **Break** (with coffee \& Welsh cakes) |  | 30 min |
 | 11:10 | The MeerKAT International GHz Extragalatic Exploration (MIGHTEE) Continuum Survey | Catherine Hale | 15 + 5 |
