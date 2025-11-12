@@ -64,7 +64,8 @@ Please note the details of this programme are subject to change! Speakers with a
 | 11:30 | Ultra-wideband study of giant pulse emitters | Patrick O'Neill | 15 + 5 |
 | 11:50 | Investigating HI source finding strategies | Michalina Maksymowicz-Maciata | 15 + 5 |
 | 12:10 | First Steps Towards Systematic Zeeman Measurements of Interstellar Magnetic Fields with SKA Precursors | Kate Pattle | 15 + 5 |
-| 12:30 - 14:00 | **Lunch** (food self-organised, coffee provided) |  | 1 hr 30 min |
+| 12:30 | Summary of SKAO Webinar | Leah Morabito* | 5-10 |
+| 12:40 - 14:00 | **Lunch** (food self-organised, coffee provided) |  | 1 hr 30 min |
 | 14:00 | The SARAO MeerKAT Galactic Plane Survey | Mark Thompson | 15 + 5 |
 | 14:20 | Probing the EoR transition to late-time large-scale structure with neutral hydrogen | Jamie Incley | 15 + 5 |
 | 14:40 | Modelling the Impact of Primary Beam Asymmetries on SKAO HI Intensity Mapping | Tobias Russell | 15 + 5 |
