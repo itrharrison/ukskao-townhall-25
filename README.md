@@ -70,7 +70,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | 14:20 | Probing the EoR transition to late-time large-scale structure with neutral hydrogen | Jamie Incley | 15 + 5 |
 | 14:40 | Modelling the Impact of Primary Beam Asymmetries on SKAO HI Intensity Mapping | Tobias Russell | 15 + 5 |
 | 15:00 | Towards a robust cosmological data analysis pipeline for neutral hydrogen intensity mapping with SKAO | Zhaoting Chen | 15 + 5 |
-| 15:20 | Recovering the Coupled Treatment of Redshift-Space Distortions and the Lightcone Effect after Diffuse Foreground Removal | Jen Feron | 15 + 5 |
+| 15:20 | [Recovering the Coupled Treatment of Redshift-Space Distortions and the Lightcone Effect after Diffuse Foreground Removal](https://www.dropbox.com/scl/fi/f5m9jjiqkh3esn80g57fq/JenFeron_SKAOTownHall2025.pptx?rlkey=p3v51dmw2mj993rua92ipgund&dl=0) | Jen Feron | 15 + 5 |
 | 15:40 | Wrap up |  | 35 min |
 | 16:15 | **End** |  |  |
 
