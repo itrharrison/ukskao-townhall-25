@@ -21,7 +21,7 @@ The building is just outside the city centre (less than five minutes from the ed
 
 On the Monday morning there will be both signs and people guiding you as to how to get to the room.
 
-Marked in white is entrance to the department (for registration), in pink is entrance to the WX building (for the talks):
+Marked in white is entrance to the department, in pink is entrance to the WX building (for the talks **AND** registration):
 
 <img src="images/entrance_to_department.png" alt="Entrances to buildings" width="400"/>
 
@@ -46,7 +46,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | 14:50 | Panel Q&A | All previous speakers | 40 min |
 | 15:30 | **Break** (with coffee \& Welsh cakes) |  | 30 min |
 | 16:00 | Precision cosmology with MeerKLASS 21cm intensity mapping | Steve Cunnington | 15 + 5 |
-| 16:20 | The Planet-Earth Building-Blocks Legacy e-MERLIN Survey: a pathfinder on where planets grow | Jane Greaves | 15 + 5 |
+| 16:20 | [The Planet-Earth Building-Blocks Legacy e-MERLIN Survey: a pathfinder on where planets grow](https://www.dropbox.com/scl/fi/c7qk3evph1bfrbk21y0e9/greaves_The-Planet-Earth-Building-Blocks-Legacy-e-MERLIN-Survey.pptx?rlkey=8ynzzgni8c6dxx60ssq6e25lt&dl=0) | Jane Greaves | 15 + 5 |
 | 16:40 | Low-frequency-selected Fast Radio Burst Host Galaxies Candidates | Yuzhu Sun | 15 + 5 |
 | 17:00 | **End** |  |  |
 
