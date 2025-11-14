@@ -42,7 +42,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | 12:00 | UK SKA Regional Centre - update | Rob Beswick / Louise Chisholm | 20 + 5 |
 | 12:25 - 14:00 | **Lunch** (food self-organised, coffee provided) |  | 1 hr 30 min |
 | 14:00 | Overview of Görlitz meeting | Philippa Hartley | 20 + 5 |
-| 14:25 | Engaging with Industry | Carol Watts | 20 + 5 |
+| 14:25 | [Engaging with Industry](https://www.dropbox.com/scl/fi/xy937d7zk73ikzzmqvhwx/SKAO-Town-Hall-STFC-Engaging-with-Industry-FINAL.pdf?rlkey=ik51gcbsq42q3g360yg18jbia&dl=0) | Carol Watts | 20 + 5 |
 | 14:50 | Panel Q&A | All previous speakers | 40 min |
 | 15:30 | **Break** (with coffee \& Welsh cakes) |  | 30 min |
 | 16:00 | Precision cosmology with MeerKLASS 21cm intensity mapping | Steve Cunnington | 15 + 5 |
@@ -66,7 +66,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | 12:10 | First Steps Towards Systematic Zeeman Measurements of Interstellar Magnetic Fields with SKA Precursors | Kate Pattle | 15 + 5 |
 | 12:30 | Summary of SKAO Webinar | Leah Morabito* | 5-10 |
 | 12:40 - 14:00 | **Lunch** (food self-organised, coffee provided) |  | 1 hr 30 min |
-| 14:00 | The SARAO MeerKAT Galactic Plane Survey | Mark Thompson | 15 + 5 |
+| 14:00 | [The SARAO MeerKAT Galactic Plane Survey](https://www.dropbox.com/scl/fi/ef5g3qtomlzeu3cyqgfe7/Thompson-UKSKA-TownHall-2025.pptx?rlkey=t1oqlqao0kmf78cci3eb0ksiv&e=1&dl=0) | Mark Thompson | 15 + 5 |
 | 14:20 | Probing the EoR transition to late-time large-scale structure with neutral hydrogen | Jamie Incley | 15 + 5 |
 | 14:40 | Modelling the Impact of Primary Beam Asymmetries on SKAO HI Intensity Mapping | Tobias Russell | 15 + 5 |
 | 15:00 | Towards a robust cosmological data analysis pipeline for neutral hydrogen intensity mapping with SKAO | Zhaoting Chen | 15 + 5 |
