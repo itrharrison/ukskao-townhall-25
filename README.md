@@ -35,7 +35,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | Start time | Title | Speaker | Duration |
 |---|---|---|---|
 | 10:30 | **Arrival & Registration** (with coffee \& pastries) |  | 30 min |
-| 11:00 | Welcome / Logistics | Ian Harrison | 5 min |
+| 11:00 | [Welcome \& Logistics](https://www.dropbox.com/scl/fi/bijeje3nfh3osflrjek5r/ianharrison_intro.pptx?rlkey=eyy38j1f37jpd89rn8nk1dubc&dl=0) | Ian Harrison | 5 min |
 | 11:05 | UK SKAO Science Committee - ECR intro | Catherine Hale / David Williams-Baldwin | 5 min |
 | 11:10 | SKAO Construction Overview | Stuart Whittley | 20 + 5 |
 | 11:35 | SKAO Science Overview | Nichol Cunningham | 20 + 5 |
