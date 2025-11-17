@@ -60,14 +60,14 @@ Please note the details of this programme are subject to change! Speakers with a
 | 09:20 | Unraveling the puzzle of "super-thin" spiral galaxies with MeerKAT | Timothy Davis | 15 + 5 |
 | 09:40 | From MIGHTEE–HI to SKA: Connecting Galaxy Evolution and HI Cosmology | Anastasia Ponomareva* | 15 + 5 |
 | 10:00 | Briefing on the SKA Data Challenge 3b: A Data Simulation and Analysis Pipeline for EoR Science | Yuchen Liu | 15 + 5 |
-| 10:20 | ~LOFAR Imaging Observations of Sub-second Solar Radio Bursts~ | ~Daniel Clarkson~ | 15 + 5 |
+| ~10:20~ | ~LOFAR Imaging Observations of Sub-second Solar Radio Bursts~ | ~Daniel Clarkson~ | 15 + 5 |
+| 10:20 | The MeerKAT International GHz Extragalatic Exploration (MIGHTEE) Continuum Survey | Catherine Hale | 15 + 5 |
 | 10:40 | **Break** (with coffee \& Welsh cakes) |  | 30 min |
-| 11:10 | The MeerKAT International GHz Extragalatic Exploration (MIGHTEE) Continuum Survey | Catherine Hale | 15 + 5 |
+| 11:20 | Summary of SKAO Webinar | Leah Morabito* | 5-10 |
 | 11:30 | Ultra-wideband study of giant pulse emitters | Patrick O'Neill* | 15 + 5 |
 | 11:50 | Investigating HI source finding strategies | Michalina Maksymowicz-Maciata | 15 + 5 |
 | 12:10 | First Steps Towards Systematic Zeeman Measurements of Interstellar Magnetic Fields with SKA Precursors | Kate Pattle | 15 + 5 |
-| 12:30 | Summary of SKAO Webinar | Leah Morabito* | 5-10 |
-| 12:40 - 14:00 | **Lunch** (food self-organised, coffee provided) |  | 1 hr 30 min |
+| 12:30 - 14:00 | **Lunch** (food self-organised, coffee provided) |  | 1 hr 30 min |
 | 14:00 | [The SARAO MeerKAT Galactic Plane Survey](https://www.dropbox.com/scl/fi/ef5g3qtomlzeu3cyqgfe7/Thompson-UKSKA-TownHall-2025.pptx?rlkey=t1oqlqao0kmf78cci3eb0ksiv&e=1&dl=0) | Mark Thompson | 15 + 5 |
 | 14:20 | Probing the EoR transition to late-time large-scale structure with neutral hydrogen | Jamie Incley | 15 + 5 |
 | 14:40 | Modelling the Impact of Primary Beam Asymmetries on SKAO HI Intensity Mapping | Tobias Russell | 15 + 5 |
