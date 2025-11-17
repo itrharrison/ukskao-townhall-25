@@ -39,7 +39,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | 10:30 | **Arrival & Registration** (with coffee \& pastries) |  | 30 min |
 | 11:00 | [Welcome \& Logistics](https://www.dropbox.com/scl/fi/bijeje3nfh3osflrjek5r/ianharrison_intro.pptx?rlkey=eyy38j1f37jpd89rn8nk1dubc&dl=0) | Ian Harrison | 5 min |
 | 11:05 | [UK SKAO Science Committee - ECR intro](https://www.dropbox.com/scl/fi/9g9yoqz8lwyrzfhvymq8w/ECR_Nov2025.pdf?rlkey=wilkrn5wo4khx2047rzq2qso3&dl=0) | Catherine Hale / David Williams-Baldwin | 5 min |
-| 11:10 | SKAO Construction Overview | Stuart Whittley | 20 + 5 |
+| 11:10 | [SKAO Construction Overview](https://www.dropbox.com/scl/fi/6v7lnf55k41yfs7q4xfor/Whittley20251111-STFC_Science_Community_Presentation-Mon17Nov25-SWW.pdf?rlkey=djbxza5o1ynwfmul2titgt1cw&dl=0) | Stuart Whittley | 20 + 5 |
 | 11:35 | [SKAO Science Overview](https://www.dropbox.com/scl/fi/5ggb1861bsrf0uof81j4q/UK-SKAO-Town-hall-17th-November-2025-Nichol-1.pdf?rlkey=3z30wb0vben2bwbm6fh0bsshq&dl=0) | Nichol Cunningham | 20 + 5 |
 | 12:00 | UK SKA Regional Centre - update | Rob Beswick / Louise Chisholm | 20 + 5 |
 | 12:25 - 14:00 | **Lunch** (food self-organised, coffee provided) |  | 1 hr 30 min |
@@ -47,7 +47,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | 14:25 | [Engaging with Industry](https://www.dropbox.com/scl/fi/xy937d7zk73ikzzmqvhwx/SKAO-Town-Hall-STFC-Engaging-with-Industry-FINAL.pdf?rlkey=ik51gcbsq42q3g360yg18jbia&dl=0) | Carol Watts | 20 + 5 |
 | 14:50 | [Panel Q&A](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2Fe%2FELvyX4iz59&data=05%7C02%7Charrisoni%40cardiff.ac.uk%7C152203b5dc5b470ac4c708de25c0d6db%7Cbdb74b3095684856bdbf06759778fcbc%7C1%7C0%7C638989707344755879%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=H%2BeXVsxj7R8lCSU%2BjDLbL3ud81O%2FZ4VdPXLbkTyZRrs%3D&reserved=0) | All previous speakers | 40 min |
 | 15:30 | **Break** (with coffee \& Welsh cakes) |  | 30 min |
-| 16:00 | Precision cosmology with MeerKLASS 21cm intensity mapping | Steve Cunnington | 15 + 5 |
+| 16:00 | [Precision cosmology with MeerKLASS 21cm intensity mapping](https://www.dropbox.com/scl/fi/w2aeqb5i50q2oxyxr1iag/CunningtonCardiffSKAOtownhall.pdf?rlkey=hr5vwyn8jmpvtu4oftnrz8hzv&dl=0) | Steve Cunnington | 15 + 5 |
 | 16:20 | [The Planet-Earth Building-Blocks Legacy e-MERLIN Survey: a pathfinder on where planets grow](https://www.dropbox.com/scl/fi/c7qk3evph1bfrbk21y0e9/greaves_The-Planet-Earth-Building-Blocks-Legacy-e-MERLIN-Survey.pptx?rlkey=8ynzzgni8c6dxx60ssq6e25lt&dl=0) | Jane Greaves | 15 + 5 |
 | 16:40 | Low-frequency-selected Fast Radio Burst Host Galaxies Candidates | Yuzhu Sun | 15 + 5 |
 | 17:00 | **End** |  |  |
