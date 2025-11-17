@@ -38,7 +38,7 @@ Please note the details of this programme are subject to change! Speakers with a
 |---|---|---|---|
 | 10:30 | **Arrival & Registration** (with coffee \& pastries) |  | 30 min |
 | 11:00 | [Welcome \& Logistics](https://www.dropbox.com/scl/fi/bijeje3nfh3osflrjek5r/ianharrison_intro.pptx?rlkey=eyy38j1f37jpd89rn8nk1dubc&dl=0) | Ian Harrison | 5 min |
-| 11:05 | UK SKAO Science Committee - ECR intro | Catherine Hale / David Williams-Baldwin | 5 min |
+| 11:05 | [UK SKAO Science Committee - ECR intro](https://www.dropbox.com/scl/fi/9g9yoqz8lwyrzfhvymq8w/ECR_Nov2025.pdf?rlkey=wilkrn5wo4khx2047rzq2qso3&dl=0) | Catherine Hale / David Williams-Baldwin | 5 min |
 | 11:10 | SKAO Construction Overview | Stuart Whittley | 20 + 5 |
 | 11:35 | SKAO Science Overview | Nichol Cunningham | 20 + 5 |
 | 12:00 | UK SKA Regional Centre - update | Rob Beswick / Louise Chisholm | 20 + 5 |
