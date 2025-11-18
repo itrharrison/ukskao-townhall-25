@@ -4,6 +4,9 @@
 
 [Zoom link](https://us06web.zoom.us/j/81061160446?pwd=nLSAmf3WGgycMxA3lz6VBZYgHzcM6B.1). Password: name of this committee (8 letters)! 
 
+[Feedback form](https://bit.ly/skao-townhall-survey)
+[Feedback slide](https://docs.google.com/presentation/d/1AHI14UCiKBcUSjfIBmqHSosc836Hgf6L35t5_KEn3PM/edit?slide=id.p#slide=id.p)
+
 - [Location](#location)
 - [Programme](#programme)
 - [Local Information](#local-information)
