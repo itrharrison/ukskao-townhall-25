@@ -71,7 +71,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | 14:00 | [The SARAO MeerKAT Galactic Plane Survey](https://www.dropbox.com/scl/fi/ef5g3qtomlzeu3cyqgfe7/Thompson-UKSKA-TownHall-2025.pptx?rlkey=t1oqlqao0kmf78cci3eb0ksiv&e=1&dl=0) | Mark Thompson | 15 + 5 |
 | 14:20 | Probing the EoR transition to late-time large-scale structure with neutral hydrogen | Jamie Incley | 15 + 5 |
 | 14:40 | Modelling the Impact of Primary Beam Asymmetries on SKAO HI Intensity Mapping | Tobias Russell | 15 + 5 |
-| 15:00 | Towards a robust cosmological data analysis pipeline for neutral hydrogen intensity mapping with SKAO | Zhaoting Chen | 15 + 5 |
+| 15:00 | [Towards a robust cosmological data analysis pipeline for neutral hydrogen intensity mapping with SKAO](https://www.dropbox.com/scl/fi/h2ic64ddqsuz7qjmlgz4a/Zhaoting_Chen_SKAO_Town_Hall.pdf?rlkey=m16fxdltumxqjtefb9wnlcwny&dl=0) | Zhaoting Chen | 15 + 5 |
 | 15:20 | [Recovering the Coupled Treatment of Redshift-Space Distortions and the Lightcone Effect after Diffuse Foreground Removal](https://www.dropbox.com/scl/fi/f5m9jjiqkh3esn80g57fq/JenFeron_SKAOTownHall2025.pptx?rlkey=p3v51dmw2mj993rua92ipgund&dl=0) | Jen Feron | 15 + 5 |
 | 15:40 | [Wrap up](https://docs.google.com/presentation/d/1AHI14UCiKBcUSjfIBmqHSosc836Hgf6L35t5_KEn3PM/edit?slide=id.p#slide=id.p) |  | 35 min |
 | 16:15 | **End** |  |  |
