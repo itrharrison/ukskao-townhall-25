@@ -2,10 +2,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cardiff_University_%28logo%29.svg/1024px-Cardiff_University_%28logo%29.svg.png?20200529000757" alt="Cardiff University Logo" width="200"/><img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1083469753%2F625699459063%2F1%2Foriginal.20250729-112718?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=229832901fddcc0baa197f62c7187313" alt="SKAO in Action" width="385"/>
 
-[Zoom link](https://us06web.zoom.us/j/81061160446?pwd=nLSAmf3WGgycMxA3lz6VBZYgHzcM6B.1). Password: name of this committee (8 letters)! 
-
 [Feedback form](https://bit.ly/skao-townhall-survey)
-[Feedback slide](https://docs.google.com/presentation/d/1AHI14UCiKBcUSjfIBmqHSosc836Hgf6L35t5_KEn3PM/edit?slide=id.p#slide=id.p)
 
 - [Location](#location)
 - [Programme](#programme)
@@ -44,7 +41,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | 11:05 | [UK SKAO Science Committee - ECR intro](https://www.dropbox.com/scl/fi/9g9yoqz8lwyrzfhvymq8w/ECR_Nov2025.pdf?rlkey=wilkrn5wo4khx2047rzq2qso3&dl=0) | Catherine Hale / David Williams-Baldwin | 5 min |
 | 11:10 | [SKAO Construction Overview](https://www.dropbox.com/scl/fi/6v7lnf55k41yfs7q4xfor/Whittley20251111-STFC_Science_Community_Presentation-Mon17Nov25-SWW.pdf?rlkey=djbxza5o1ynwfmul2titgt1cw&dl=0) | Stuart Whittley | 20 + 5 |
 | 11:35 | [SKAO Science Overview](https://www.dropbox.com/scl/fi/5ggb1861bsrf0uof81j4q/UK-SKAO-Town-hall-17th-November-2025-Nichol-1.pdf?rlkey=3z30wb0vben2bwbm6fh0bsshq&dl=0) | Nichol Cunningham | 20 + 5 |
-| 12:00 | UK SKA Regional Centre - update | Rob Beswick / Louise Chisholm | 20 + 5 |
+| 12:00 | [UK SKA Regional Centre - update](https://www.dropbox.com/scl/fi/5jsoqagfd8gs5zqq1vqd5/20251117_UKSRC_ukSKATownHall.pdf?rlkey=3itk95flvtpreyi138ii0faat&dl=0) | Rob Beswick / Louise Chisholm | 20 + 5 |
 | 12:25 - 14:00 | **Lunch** (food self-organised, coffee provided) |  | 1 hr 30 min |
 | 14:00 | Overview of Görlitz meeting | Philippa Hartley | 20 + 5 |
 | 14:25 | [Engaging with Industry](https://www.dropbox.com/scl/fi/xy937d7zk73ikzzmqvhwx/SKAO-Town-Hall-STFC-Engaging-with-Industry-FINAL.pdf?rlkey=ik51gcbsq42q3g360yg18jbia&dl=0) | Carol Watts | 20 + 5 |
@@ -66,8 +63,8 @@ Please note the details of this programme are subject to change! Speakers with a
 | ~10:20~ | ~LOFAR Imaging Observations of Sub-second Solar Radio Bursts~ | ~Daniel Clarkson~ | 15 + 5 |
 | 10:20 | The MeerKAT International GHz Extragalatic Exploration (MIGHTEE) Continuum Survey | Catherine Hale | 15 + 5 |
 | 10:40 | **Break** (with coffee \& Welsh cakes) |  | 30 min |
-| 11:20 | Summary of SKAO Webinar | Leah Morabito* | 5-10 |
-| 11:30 | Ultra-wideband study of giant pulse emitters | Patrick O'Neill* | 15 + 5 |
+| 11:20 | [Summary of SKAO Webinar](https://docs.google.com/presentation/d/1rMQhnNFfathw2i8i16VHMFuPLXZEs472yH7nKN4GrE8/edit?usp=sharing) | Leah Morabito* | 5-10 |
+| 11:30 | [Ultra-wideband study of giant pulse emitters](https://www.dropbox.com/scl/fi/pgcd3rufonfj3cy0c3aem/oneill_SKAO_Town_Hall_Meeting_GP_emiiters.pptx?rlkey=4ntsrdpvgfp687bxfeqcj7ibe&dl=0) | Patrick O'Neill* | 15 + 5 |
 | 11:50 | Investigating HI source finding strategies | Michalina Maksymowicz-Maciata | 15 + 5 |
 | 12:10 | First Steps Towards Systematic Zeeman Measurements of Interstellar Magnetic Fields with SKA Precursors | Kate Pattle | 15 + 5 |
 | 12:30 - 14:00 | **Lunch** (food self-organised, coffee provided) |  | 1 hr 30 min |
@@ -76,7 +73,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | 14:40 | Modelling the Impact of Primary Beam Asymmetries on SKAO HI Intensity Mapping | Tobias Russell | 15 + 5 |
 | 15:00 | Towards a robust cosmological data analysis pipeline for neutral hydrogen intensity mapping with SKAO | Zhaoting Chen | 15 + 5 |
 | 15:20 | [Recovering the Coupled Treatment of Redshift-Space Distortions and the Lightcone Effect after Diffuse Foreground Removal](https://www.dropbox.com/scl/fi/f5m9jjiqkh3esn80g57fq/JenFeron_SKAOTownHall2025.pptx?rlkey=p3v51dmw2mj993rua92ipgund&dl=0) | Jen Feron | 15 + 5 |
-| 15:40 | Wrap up |  | 35 min |
+| 15:40 | [Wrap up](https://docs.google.com/presentation/d/1AHI14UCiKBcUSjfIBmqHSosc836Hgf6L35t5_KEn3PM/edit?slide=id.p#slide=id.p) |  | 35 min |
 | 16:15 | **End** |  |  |
 
 ## Local Information
