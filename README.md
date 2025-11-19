@@ -49,7 +49,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | 15:30 | **Break** (with coffee \& Welsh cakes) |  | 30 min |
 | 16:00 | [Precision cosmology with MeerKLASS 21cm intensity mapping](https://www.dropbox.com/scl/fi/w2aeqb5i50q2oxyxr1iag/CunningtonCardiffSKAOtownhall.pdf?rlkey=hr5vwyn8jmpvtu4oftnrz8hzv&dl=0) | Steve Cunnington | 15 + 5 |
 | 16:20 | [The Planet-Earth Building-Blocks Legacy e-MERLIN Survey: a pathfinder on where planets grow](https://www.dropbox.com/scl/fi/c7qk3evph1bfrbk21y0e9/greaves_The-Planet-Earth-Building-Blocks-Legacy-e-MERLIN-Survey.pptx?rlkey=8ynzzgni8c6dxx60ssq6e25lt&dl=0) | Jane Greaves | 15 + 5 |
-| 16:40 | Low-frequency-selected Fast Radio Burst Host Galaxies Candidates | Yuzhu Sun | 15 + 5 |
+| 16:40 | [Low-frequency-selected Fast Radio Burst Host Galaxies Candidates](https://drive.google.com/file/d/1BZCh9q5fMW5xEOqjHnQ3Wa3KBdDZepjS/view?usp=sharing) | Yuzhu Sun | 15 + 5 |
 | 17:00 | **End** |  |  |
 
 
@@ -69,7 +69,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | 12:10 | First Steps Towards Systematic Zeeman Measurements of Interstellar Magnetic Fields with SKA Precursors | Kate Pattle | 15 + 5 |
 | 12:30 - 14:00 | **Lunch** (food self-organised, coffee provided) |  | 1 hr 30 min |
 | 14:00 | [The SARAO MeerKAT Galactic Plane Survey](https://www.dropbox.com/scl/fi/ef5g3qtomlzeu3cyqgfe7/Thompson-UKSKA-TownHall-2025.pptx?rlkey=t1oqlqao0kmf78cci3eb0ksiv&e=1&dl=0) | Mark Thompson | 15 + 5 |
-| 14:20 | Probing the EoR transition to late-time large-scale structure with neutral hydrogen | Jamie Incley | 15 + 5 |
+| 14:20 | [Probing the EoR transition to late-time large-scale structure with neutral hydrogen](https://www.dropbox.com/scl/fi/ys6tuk2ld05pvd352dukl/incley_slides.pdf?rlkey=pgzft1xrdb59ii7sau4c6qdu4&dl=0) | Jamie Incley | 15 + 5 |
 | 14:40 | Modelling the Impact of Primary Beam Asymmetries on SKAO HI Intensity Mapping | Tobias Russell | 15 + 5 |
 | 15:00 | [Towards a robust cosmological data analysis pipeline for neutral hydrogen intensity mapping with SKAO](https://www.dropbox.com/scl/fi/h2ic64ddqsuz7qjmlgz4a/Zhaoting_Chen_SKAO_Town_Hall.pdf?rlkey=m16fxdltumxqjtefb9wnlcwny&dl=0) | Zhaoting Chen | 15 + 5 |
 | 15:20 | [Recovering the Coupled Treatment of Redshift-Space Distortions and the Lightcone Effect after Diffuse Foreground Removal](https://www.dropbox.com/scl/fi/f5m9jjiqkh3esn80g57fq/JenFeron_SKAOTownHall2025.pptx?rlkey=p3v51dmw2mj993rua92ipgund&dl=0) | Jen Feron | 15 + 5 |
