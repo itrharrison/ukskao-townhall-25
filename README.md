@@ -63,7 +63,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | ~10:20~ | ~LOFAR Imaging Observations of Sub-second Solar Radio Bursts~ | ~Daniel Clarkson~ | 15 + 5 |
 | 10:20 | The MeerKAT International GHz Extragalatic Exploration (MIGHTEE) Continuum Survey | Catherine Hale | 15 + 5 |
 | 10:40 | **Break** (with coffee \& Welsh cakes) |  | 30 min |
-| 11:20 | [Summary of SKAO Webinar](https://docs.google.com/presentation/d/1rMQhnNFfathw2i8i16VHMFuPLXZEs472yH7nKN4GrE8/edit?usp=sharing) | Leah Morabito* | 5-10 |
+| 11:20 | [Summary of SKAO Webinar](https://www.dropbox.com/scl/fi/8x22d88h6e8t7tt7kdtnh/morabito_webinar-summary.pdf?rlkey=xsdvhrdhjcsd6idp5mr4gvbzi&dl=0) | Leah Morabito* | 5-10 |
 | 11:30 | [Ultra-wideband study of giant pulse emitters](https://www.dropbox.com/scl/fi/pgcd3rufonfj3cy0c3aem/oneill_SKAO_Town_Hall_Meeting_GP_emiiters.pptx?rlkey=4ntsrdpvgfp687bxfeqcj7ibe&dl=0) | Patrick O'Neill* | 15 + 5 |
 | 11:50 | Investigating HI source finding strategies | Michalina Maksymowicz-Maciata | 15 + 5 |
 | 12:10 | First Steps Towards Systematic Zeeman Measurements of Interstellar Magnetic Fields with SKA Precursors | Kate Pattle | 15 + 5 |
