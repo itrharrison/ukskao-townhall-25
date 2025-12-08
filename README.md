@@ -59,9 +59,9 @@ Please note the details of this programme are subject to change! Speakers with a
 | 08:45 | **Arrival** (with coffee \& pastries) |  | 35 min |
 | 09:20 | Unraveling the puzzle of "super-thin" spiral galaxies with MeerKAT | Timothy Davis | 15 + 5 |
 | 09:40 | From MIGHTEE–HI to SKA: Connecting Galaxy Evolution and HI Cosmology | Anastasia Ponomareva* | 15 + 5 |
-| 10:00 | Briefing on the SKA Data Challenge 3b: A Data Simulation and Analysis Pipeline for EoR Science | Yuchen Liu | 15 + 5 |
+| 10:00 | [Briefing on the SKA Data Challenge 3b: A Data Simulation and Analysis Pipeline for EoR Science](https://www.dropbox.com/scl/fi/4g0ibpc02a77wjcds1k75/Liu_SKA-Town-Hall.pdf?rlkey=oatny0s6ytn17cy8m3cm27ru2&dl=0) | Yuchen Liu | 15 + 5 |
 | ~10:20~ | ~LOFAR Imaging Observations of Sub-second Solar Radio Bursts~ | ~Daniel Clarkson~ | 15 + 5 |
-| 10:20 | The MeerKAT International GHz Extragalatic Exploration (MIGHTEE) Continuum Survey | Catherine Hale | 15 + 5 |
+| 10:20 | [The MeerKAT International GHz Extragalatic Exploration (MIGHTEE) Continuum Survey](https://www.dropbox.com/scl/fi/yxocy9ja4s2uyr2tyomab/Hale_MIGHTEE.pdf?rlkey=g7pu6uwmqfwbysu0k82j40bym&dl=0) | Catherine Hale | 15 + 5 |
 | 10:40 | **Break** (with coffee \& Welsh cakes) |  | 30 min |
 | 11:20 | [Summary of SKAO Webinar](https://www.dropbox.com/scl/fi/8x22d88h6e8t7tt7kdtnh/morabito_webinar-summary.pdf?rlkey=xsdvhrdhjcsd6idp5mr4gvbzi&dl=0) | Leah Morabito* | 5-10 |
 | 11:30 | [Ultra-wideband study of giant pulse emitters](https://www.dropbox.com/scl/fi/pgcd3rufonfj3cy0c3aem/oneill_SKAO_Town_Hall_Meeting_GP_emiiters.pptx?rlkey=4ntsrdpvgfp687bxfeqcj7ibe&dl=0) | Patrick O'Neill* | 15 + 5 |
@@ -70,7 +70,7 @@ Please note the details of this programme are subject to change! Speakers with a
 | 12:30 - 14:00 | **Lunch** (food self-organised, coffee provided) |  | 1 hr 30 min |
 | 14:00 | [The SARAO MeerKAT Galactic Plane Survey](https://www.dropbox.com/scl/fi/ef5g3qtomlzeu3cyqgfe7/Thompson-UKSKA-TownHall-2025.pptx?rlkey=t1oqlqao0kmf78cci3eb0ksiv&e=1&dl=0) | Mark Thompson | 15 + 5 |
 | 14:20 | [Probing the EoR transition to late-time large-scale structure with neutral hydrogen](https://www.dropbox.com/scl/fi/ys6tuk2ld05pvd352dukl/incley_slides.pdf?rlkey=pgzft1xrdb59ii7sau4c6qdu4&dl=0) | Jamie Incley | 15 + 5 |
-| 14:40 | Modelling the Impact of Primary Beam Asymmetries on SKAO HI Intensity Mapping | Tobias Russell | 15 + 5 |
+| 14:40 | [Modelling the Impact of Primary Beam Asymmetries on SKAO HI Intensity Mapping](https://www.dropbox.com/scl/fi/k6wjr29l5kcuvnv3qomkg/SKAO_TownHall_Slides_Tobias_Russell.pptx?rlkey=axh24mj3bxeqc6kfdebbcvvmk&dl=0) | Tobias Russell | 15 + 5 |
 | 15:00 | [Towards a robust cosmological data analysis pipeline for neutral hydrogen intensity mapping with SKAO](https://www.dropbox.com/scl/fi/h2ic64ddqsuz7qjmlgz4a/Zhaoting_Chen_SKAO_Town_Hall.pdf?rlkey=m16fxdltumxqjtefb9wnlcwny&dl=0) | Zhaoting Chen | 15 + 5 |
 | 15:20 | [Recovering the Coupled Treatment of Redshift-Space Distortions and the Lightcone Effect after Diffuse Foreground Removal](https://www.dropbox.com/scl/fi/f5m9jjiqkh3esn80g57fq/JenFeron_SKAOTownHall2025.pptx?rlkey=p3v51dmw2mj993rua92ipgund&dl=0) | Jen Feron | 15 + 5 |
 | 15:40 | [Wrap up](https://docs.google.com/presentation/d/1AHI14UCiKBcUSjfIBmqHSosc836Hgf6L35t5_KEn3PM/edit?slide=id.p#slide=id.p) |  | 35 min |
